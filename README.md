@@ -10,7 +10,6 @@ Welcome to the **Mastermind Game** 🎮! This is a classic code-breaking game wh
 - [High Score Tracking](#high-score-tracking)
 - [Technologies Used](#technologies-used)
 - [How to Run](#how-to-run)
-- [License](#license)
 
 ## Game Description
 
